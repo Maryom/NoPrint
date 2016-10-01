@@ -7,9 +7,9 @@ __To run the script:__
 $ python NoPrint.py <script_file_name>
 ```
 
-### Post of the script
+### Post of the script:
 
 This is a [post][post-link] about NoPrint script.
 
 
-[post][post-link]: http://learningthensharing.ghost.io/the-smart-laziness/
+[post-link]: http://learningthensharing.ghost.io/the-smart-laziness/
